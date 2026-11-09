@@ -1,0 +1,1600 @@
+{
+    "counters": {
+        "u_row": 9,
+        "u_column": 9,
+        "u_content_image": 6,
+        "u_content_text": 20,
+        "u_content_heading": 7,
+        "u_content_button": 1,
+        "u_content_menu": 1,
+        "u_content_divider": 1
+    },
+    "body": {
+        "rows": [
+            {
+                "cells": [
+                    1
+                ],
+                "columns": [
+                    {
+                        "contents": [
+                            {
+                                "type": "image",
+                                "values": {
+                                    "containerPadding": "0px 0px 20px",
+                                    "src": {
+                                        "url": "https://assets.unlayer.com/projects/139/1676495528722-apple_logo_circle_f5f5f7-000_2x.png",
+                                        "width": 1600,
+                                        "autoWidth": false,
+                                        "maxWidth": "11%"
+                                    },
+                                    "textAlign": "center",
+                                    "altText": "Apple",
+                                    "action": {
+                                        "name": "web",
+                                        "values": {
+                                            "href": "",
+                                            "target": "_blank"
+                                        }
+                                    },
+                                    "_meta": {
+                                        "htmlID": "u_content_image_1",
+                                        "htmlClassNames": "u_content_image"
+                                    },
+                                    "selectable": true,
+                                    "draggable": true,
+                                    "duplicatable": true,
+                                    "deletable": true,
+                                    "hideable": true
+                                }
+                            },
+                            {
+                                "type": "text",
+                                "values": {
+                                    "containerPadding": "0px 0px 4px",
+                                    "fontSize": "17px",
+                                    "textAlign": "center",
+                                    "lineHeight": "140%",
+                                    "linkStyle": {
+                                        "inherit": true,
+                                        "linkColor": "#0000ee",
+                                        "linkHoverColor": "#0000ee",
+                                        "linkUnderline": true,
+                                        "linkHoverUnderline": true
+                                    },
+                                    "color": "#f56300",
+                                    "fontWeight": 600,
+                                    "text": "New",
+                                    "_meta": {
+                                        "htmlID": "u_content_text_1",
+                                        "htmlClassNames": "u_content_text"
+                                    },
+                                    "selectable": true,
+                                    "draggable": true,
+                                    "duplicatable": true,
+                                    "deletable": true,
+                                    "hideable": true
+                                }
+                            },
+                            {
+                                "type": "heading",
+                                "values": {
+                                    "containerPadding": "0px",
+                                    "headingType": "h1",
+                                    "fontSize": "48px",
+                                    "textAlign": "center",
+                                    "lineHeight": "1.08",
+                                    "linkStyle": {
+                                        "inherit": true,
+                                        "linkColor": "#0000ee",
+                                        "linkHoverColor": "#0000ee",
+                                        "linkUnderline": true,
+                                        "linkHoverUnderline": true
+                                    },
+                                    "color": "#f5f5f7",
+                                    "fontWeight": 600,
+                                    "text": "MacBook Pro",
+                                    "letterSpacing": "-0.4px",
+                                    "_meta": {
+                                        "htmlID": "u_content_heading_1",
+                                        "htmlClassNames": "u_content_heading"
+                                    },
+                                    "selectable": true,
+                                    "draggable": true,
+                                    "duplicatable": true,
+                                    "deletable": true,
+                                    "hideable": true
+                                }
+                            },
+                            {
+                                "type": "heading",
+                                "values": {
+                                    "containerPadding": "8px 0px 0px",
+                                    "headingType": "h2",
+                                    "fontSize": "21px",
+                                    "textAlign": "center",
+                                    "lineHeight": "1.2",
+                                    "linkStyle": {
+                                        "inherit": true,
+                                        "linkColor": "#0000ee",
+                                        "linkHoverColor": "#0000ee",
+                                        "linkUnderline": true,
+                                        "linkHoverUnderline": true
+                                    },
+                                    "color": "#f5f5f7",
+                                    "fontWeight": 400,
+                                    "text": "Mover. Maker. Boundary breaker.",
+                                    "_meta": {
+                                        "htmlID": "u_content_heading_2",
+                                        "htmlClassNames": "u_content_heading"
+                                    },
+                                    "selectable": true,
+                                    "draggable": true,
+                                    "duplicatable": true,
+                                    "deletable": true,
+                                    "hideable": true
+                                }
+                            },
+                            {
+                                "type": "text",
+                                "values": {
+                                    "containerPadding": "12px 0px 0px",
+                                    "fontSize": "17px",
+                                    "textAlign": "center",
+                                    "lineHeight": "140%",
+                                    "linkStyle": {
+                                        "inherit": true,
+                                        "linkColor": "#0000ee",
+                                        "linkHoverColor": "#0000ee",
+                                        "linkUnderline": true,
+                                        "linkHoverUnderline": true
+                                    },
+                                    "color": "#86868b",
+                                    "text": "From $1999 or $166.58/mo. for 12 mo.",
+                                    "_meta": {
+                                        "htmlID": "u_content_text_2",
+                                        "htmlClassNames": "u_content_text"
+                                    },
+                                    "selectable": true,
+                                    "draggable": true,
+                                    "duplicatable": true,
+                                    "deletable": true,
+                                    "hideable": true
+                                }
+                            }
+                        ],
+                        "values": {
+                            "backgroundColor": "",
+                            "padding": "0px",
+                            "border": {},
+                            "borderRadius": "0px",
+                            "_meta": {
+                                "htmlID": "u_column_1",
+                                "htmlClassNames": "u_column"
+                            },
+                            "deletable": true,
+                            "locked": false
+                        }
+                    }
+                ],
+                "values": {
+                    "displayCondition": null,
+                    "columns": false,
+                    "_styleGuide": null,
+                    "backgroundColor": "",
+                    "columnsBackgroundColor": "",
+                    "backgroundImage": {
+                        "url": "",
+                        "fullWidth": true,
+                        "repeat": "no-repeat",
+                        "size": "custom",
+                        "position": "center"
+                    },
+                    "padding": "48px 20px 8px",
+                    "anchor": "",
+                    "noStackMobile": false,
+                    "_meta": {
+                        "htmlID": "u_row_1",
+                        "htmlClassNames": "u_row"
+                    },
+                    "selectable": true,
+                    "draggable": true,
+                    "duplicatable": true,
+                    "deletable": true,
+                    "hideable": true,
+                    "locked": false,
+                    "cells": [
+                        1
+                    ]
+                }
+            },
+            {
+                "cells": [
+                    1
+                ],
+                "columns": [
+                    {
+                        "contents": [
+                            {
+                                "type": "button",
+                                "values": {
+                                    "containerPadding": "10px 0px 0px",
+                                    "href": {
+                                        "name": "web",
+                                        "values": {
+                                            "href": "https://www.apple.com/shop/buy-mac/macbook-pro",
+                                            "target": "_blank"
+                                        }
+                                    },
+                                    "buttonColors": {
+                                        "color": "#ffffff",
+                                        "backgroundColor": "#0071e3",
+                                        "hoverColor": "#FFFFFF",
+                                        "hoverBackgroundColor": "#0077ed"
+                                    },
+                                    "size": {
+                                        "autoWidth": true,
+                                        "width": "100%"
+                                    },
+                                    "fontSize": "17px",
+                                    "lineHeight": "120%",
+                                    "textAlign": "center",
+                                    "padding": "11px 22px",
+                                    "border": {},
+                                    "borderRadius": "980px",
+                                    "text": "Buy",
+                                    "_meta": {
+                                        "htmlID": "u_content_button_1",
+                                        "htmlClassNames": "u_content_button"
+                                    },
+                                    "selectable": true,
+                                    "draggable": true,
+                                    "duplicatable": true,
+                                    "deletable": true,
+                                    "hideable": true
+                                }
+                            },
+                            {
+                                "type": "text",
+                                "values": {
+                                    "containerPadding": "14px 0px 0px",
+                                    "fontSize": "17px",
+                                    "textAlign": "center",
+                                    "lineHeight": "140%",
+                                    "linkStyle": {
+                                        "inherit": true,
+                                        "linkColor": "#0000ee",
+                                        "linkHoverColor": "#0000ee",
+                                        "linkUnderline": true,
+                                        "linkHoverUnderline": true
+                                    },
+                                    "color": "#000000",
+                                    "text": "<a href=\"https://www.apple.com/macbook-pro/\" style=\"color: #2997ff; text-decoration: none;\">Learn more ›</a>",
+                                    "_meta": {
+                                        "htmlID": "u_content_text_3",
+                                        "htmlClassNames": "u_content_text"
+                                    },
+                                    "selectable": true,
+                                    "draggable": true,
+                                    "duplicatable": true,
+                                    "deletable": true,
+                                    "hideable": true
+                                }
+                            }
+                        ],
+                        "values": {
+                            "backgroundColor": "",
+                            "padding": "0px",
+                            "border": {},
+                            "borderRadius": "0px",
+                            "_meta": {
+                                "htmlID": "u_column_2",
+                                "htmlClassNames": "u_column"
+                            },
+                            "deletable": true,
+                            "locked": false
+                        }
+                    }
+                ],
+                "values": {
+                    "displayCondition": null,
+                    "columns": false,
+                    "_styleGuide": null,
+                    "backgroundColor": "",
+                    "columnsBackgroundColor": "",
+                    "backgroundImage": {
+                        "url": "",
+                        "fullWidth": true,
+                        "repeat": "no-repeat",
+                        "size": "custom",
+                        "position": "center"
+                    },
+                    "padding": "12px 24px 0px",
+                    "anchor": "",
+                    "noStackMobile": false,
+                    "_meta": {
+                        "htmlID": "u_row_2",
+                        "htmlClassNames": "u_row"
+                    },
+                    "selectable": true,
+                    "draggable": true,
+                    "duplicatable": true,
+                    "deletable": true,
+                    "hideable": true,
+                    "locked": false,
+                    "cells": [
+                        1
+                    ]
+                }
+            },
+            {
+                "cells": [
+                    1
+                ],
+                "columns": [
+                    {
+                        "contents": [
+                            {
+                                "type": "image",
+                                "values": {
+                                    "containerPadding": "0px 0px 40px",
+                                    "src": {
+                                        "url": "https://assets.unlayer.com/projects/139/1792954848102-macbook-pro-m5-hero.jpg",
+                                        "width": 1600,
+                                        "autoWidth": true,
+                                        "maxWidth": "100%"
+                                    },
+                                    "textAlign": "center",
+                                    "altText": "MacBook Pro",
+                                    "action": {
+                                        "name": "web",
+                                        "values": {
+                                            "href": "",
+                                            "target": "_blank"
+                                        }
+                                    },
+                                    "_meta": {
+                                        "htmlID": "u_content_image_2",
+                                        "htmlClassNames": "u_content_image"
+                                    },
+                                    "selectable": true,
+                                    "draggable": true,
+                                    "duplicatable": true,
+                                    "deletable": true,
+                                    "hideable": true
+                                }
+                            },
+                            {
+                                "type": "text",
+                                "values": {
+                                    "containerPadding": "5px 20px",
+                                    "fontSize": "19px",
+                                    "textAlign": "center",
+                                    "lineHeight": "1.3",
+                                    "linkStyle": {
+                                        "inherit": true,
+                                        "linkColor": "#0000ee",
+                                        "linkHoverColor": "#0000ee",
+                                        "linkUnderline": true,
+                                        "linkHoverUnderline": true
+                                    },
+                                    "color": "#86868b",
+                                    "fontWeight": 600,
+                                    "text": "Supercharged by <span style=\"color: #f5f5f7; white-space: nowrap;\">M5 Pro and M5 Max</span>.",
+                                    "_meta": {
+                                        "htmlID": "u_content_text_4",
+                                        "htmlClassNames": "u_content_text"
+                                    },
+                                    "selectable": true,
+                                    "draggable": true,
+                                    "duplicatable": true,
+                                    "deletable": true,
+                                    "hideable": true
+                                }
+                            },
+                            {
+                                "type": "text",
+                                "values": {
+                                    "containerPadding": "5px 20px",
+                                    "fontSize": "19px",
+                                    "textAlign": "center",
+                                    "lineHeight": "1.3",
+                                    "linkStyle": {
+                                        "inherit": true,
+                                        "linkColor": "#0000ee",
+                                        "linkHoverColor": "#0000ee",
+                                        "linkUnderline": true,
+                                        "linkHoverUnderline": true
+                                    },
+                                    "color": "#86868b",
+                                    "fontWeight": 600,
+                                    "text": "Up to <span style=\"color: #f5f5f7; white-space: nowrap;\">22 hours</span> of battery life.",
+                                    "_meta": {
+                                        "htmlID": "u_content_text_5",
+                                        "htmlClassNames": "u_content_text"
+                                    },
+                                    "selectable": true,
+                                    "draggable": true,
+                                    "duplicatable": true,
+                                    "deletable": true,
+                                    "hideable": true
+                                }
+                            },
+                            {
+                                "type": "text",
+                                "values": {
+                                    "containerPadding": "5px 20px",
+                                    "fontSize": "19px",
+                                    "textAlign": "center",
+                                    "lineHeight": "1.3",
+                                    "linkStyle": {
+                                        "inherit": true,
+                                        "linkColor": "#0000ee",
+                                        "linkHoverColor": "#0000ee",
+                                        "linkUnderline": true,
+                                        "linkHoverUnderline": true
+                                    },
+                                    "color": "#86868b",
+                                    "fontWeight": 600,
+                                    "text": "A stunning <span style=\"color: #f5f5f7; white-space: nowrap;\">Liquid Retina XDR</span> display.",
+                                    "_meta": {
+                                        "htmlID": "u_content_text_6",
+                                        "htmlClassNames": "u_content_text"
+                                    },
+                                    "selectable": true,
+                                    "draggable": true,
+                                    "duplicatable": true,
+                                    "deletable": true,
+                                    "hideable": true
+                                }
+                            },
+                            {
+                                "type": "text",
+                                "values": {
+                                    "containerPadding": "5px 20px",
+                                    "fontSize": "19px",
+                                    "textAlign": "center",
+                                    "lineHeight": "1.3",
+                                    "linkStyle": {
+                                        "inherit": true,
+                                        "linkColor": "#0000ee",
+                                        "linkHoverColor": "#0000ee",
+                                        "linkUnderline": true,
+                                        "linkHoverUnderline": true
+                                    },
+                                    "color": "#86868b",
+                                    "fontWeight": 600,
+                                    "text": "All the ports you need and <span style=\"color: #f5f5f7; white-space: nowrap;\">faster Wi-Fi 6E</span>.",
+                                    "_meta": {
+                                        "htmlID": "u_content_text_7",
+                                        "htmlClassNames": "u_content_text"
+                                    },
+                                    "selectable": true,
+                                    "draggable": true,
+                                    "duplicatable": true,
+                                    "deletable": true,
+                                    "hideable": true
+                                }
+                            }
+                        ],
+                        "values": {
+                            "backgroundColor": "",
+                            "padding": "0px",
+                            "border": {},
+                            "borderRadius": "0px",
+                            "_meta": {
+                                "htmlID": "u_column_3",
+                                "htmlClassNames": "u_column"
+                            },
+                            "deletable": true,
+                            "locked": false
+                        }
+                    }
+                ],
+                "values": {
+                    "displayCondition": null,
+                    "columns": false,
+                    "_styleGuide": null,
+                    "backgroundColor": "",
+                    "columnsBackgroundColor": "",
+                    "backgroundImage": {
+                        "url": "",
+                        "fullWidth": true,
+                        "repeat": "no-repeat",
+                        "size": "custom",
+                        "position": "center"
+                    },
+                    "padding": "24px 0px 56px",
+                    "anchor": "",
+                    "noStackMobile": false,
+                    "_meta": {
+                        "htmlID": "u_row_3",
+                        "htmlClassNames": "u_row"
+                    },
+                    "selectable": true,
+                    "draggable": true,
+                    "duplicatable": true,
+                    "deletable": true,
+                    "hideable": true,
+                    "locked": false,
+                    "cells": [
+                        1
+                    ]
+                }
+            },
+            {
+                "cells": [
+                    1
+                ],
+                "columns": [
+                    {
+                        "contents": [
+                            {
+                                "type": "heading",
+                                "values": {
+                                    "containerPadding": "0px",
+                                    "headingType": "h1",
+                                    "fontSize": "32px",
+                                    "textAlign": "center",
+                                    "lineHeight": "1.125",
+                                    "linkStyle": {
+                                        "inherit": true,
+                                        "linkColor": "#0000ee",
+                                        "linkHoverColor": "#0000ee",
+                                        "linkUnderline": true,
+                                        "linkHoverUnderline": true
+                                    },
+                                    "color": "#f5f5f7",
+                                    "fontWeight": 600,
+                                    "text": "Why Apple is the best place to buy Mac.",
+                                    "letterSpacing": "-0.3px",
+                                    "_meta": {
+                                        "htmlID": "u_content_heading_3",
+                                        "htmlClassNames": "u_content_heading"
+                                    },
+                                    "selectable": true,
+                                    "draggable": true,
+                                    "duplicatable": true,
+                                    "deletable": true,
+                                    "hideable": true
+                                }
+                            }
+                        ],
+                        "values": {
+                            "backgroundColor": "",
+                            "padding": "0px",
+                            "border": {},
+                            "borderRadius": "0px",
+                            "_meta": {
+                                "htmlID": "u_column_4",
+                                "htmlClassNames": "u_column"
+                            },
+                            "deletable": true,
+                            "locked": false
+                        }
+                    }
+                ],
+                "values": {
+                    "displayCondition": null,
+                    "columns": false,
+                    "_styleGuide": null,
+                    "backgroundColor": "#161617",
+                    "columnsBackgroundColor": "",
+                    "backgroundImage": {
+                        "url": "",
+                        "fullWidth": true,
+                        "repeat": "no-repeat",
+                        "size": "custom",
+                        "position": "center"
+                    },
+                    "padding": "64px 20px 32px",
+                    "anchor": "",
+                    "noStackMobile": false,
+                    "_meta": {
+                        "htmlID": "u_row_4",
+                        "htmlClassNames": "u_row"
+                    },
+                    "selectable": true,
+                    "draggable": true,
+                    "duplicatable": true,
+                    "deletable": true,
+                    "hideable": true,
+                    "locked": false,
+                    "cells": [
+                        1
+                    ]
+                }
+            },
+            {
+                "cells": [
+                    1
+                ],
+                "columns": [
+                    {
+                        "contents": [
+                            {
+                                "type": "text",
+                                "values": {
+                                    "containerPadding": "0px 0px 6px",
+                                    "fontSize": "12px",
+                                    "textAlign": "center",
+                                    "lineHeight": "140%",
+                                    "linkStyle": {
+                                        "inherit": true,
+                                        "linkColor": "#0000ee",
+                                        "linkHoverColor": "#0000ee",
+                                        "linkUnderline": true,
+                                        "linkHoverUnderline": true
+                                    },
+                                    "color": "#86868b",
+                                    "fontWeight": 600,
+                                    "text": "Apple Trade In",
+                                    "_meta": {
+                                        "htmlID": "u_content_text_8",
+                                        "htmlClassNames": "u_content_text"
+                                    },
+                                    "selectable": true,
+                                    "draggable": true,
+                                    "duplicatable": true,
+                                    "deletable": true,
+                                    "hideable": true
+                                }
+                            },
+                            {
+                                "type": "heading",
+                                "values": {
+                                    "containerPadding": "0px",
+                                    "headingType": "h3",
+                                    "fontSize": "24px",
+                                    "textAlign": "center",
+                                    "lineHeight": "1.17",
+                                    "linkStyle": {
+                                        "inherit": true,
+                                        "linkColor": "#0000ee",
+                                        "linkHoverColor": "#0000ee",
+                                        "linkUnderline": true,
+                                        "linkHoverUnderline": true
+                                    },
+                                    "color": "#f5f5f7",
+                                    "fontWeight": 600,
+                                    "text": "Get credit toward a new Mac.",
+                                    "letterSpacing": "-0.2px",
+                                    "_meta": {
+                                        "htmlID": "u_content_heading_4",
+                                        "htmlClassNames": "u_content_heading"
+                                    },
+                                    "selectable": true,
+                                    "draggable": true,
+                                    "duplicatable": true,
+                                    "deletable": true,
+                                    "hideable": true
+                                }
+                            },
+                            {
+                                "type": "text",
+                                "values": {
+                                    "containerPadding": "10px 8px 0px",
+                                    "fontSize": "15px",
+                                    "textAlign": "center",
+                                    "lineHeight": "1.47",
+                                    "linkStyle": {
+                                        "inherit": true,
+                                        "linkColor": "#0000ee",
+                                        "linkHoverColor": "#0000ee",
+                                        "linkUnderline": true,
+                                        "linkHoverUnderline": true
+                                    },
+                                    "color": "#86868b",
+                                    "text": "Trade in your eligible Mac and put credit toward a new one. It’s good for you and the planet.",
+                                    "_meta": {
+                                        "htmlID": "u_content_text_9",
+                                        "htmlClassNames": "u_content_text"
+                                    },
+                                    "selectable": true,
+                                    "draggable": true,
+                                    "duplicatable": true,
+                                    "deletable": true,
+                                    "hideable": true
+                                }
+                            },
+                            {
+                                "type": "text",
+                                "values": {
+                                    "containerPadding": "10px 0px 24px",
+                                    "fontSize": "15px",
+                                    "textAlign": "center",
+                                    "lineHeight": "140%",
+                                    "linkStyle": {
+                                        "inherit": true,
+                                        "linkColor": "#0000ee",
+                                        "linkHoverColor": "#0000ee",
+                                        "linkUnderline": true,
+                                        "linkHoverUnderline": true
+                                    },
+                                    "color": "#000000",
+                                    "text": "<a href=\"https://www.apple.com/shop/trade-in\" style=\"color: #2997ff; text-decoration: none;\">Find your trade-in value ›</a>",
+                                    "_meta": {
+                                        "htmlID": "u_content_text_10",
+                                        "htmlClassNames": "u_content_text"
+                                    },
+                                    "selectable": true,
+                                    "draggable": true,
+                                    "duplicatable": true,
+                                    "deletable": true,
+                                    "hideable": true
+                                }
+                            },
+                            {
+                                "type": "image",
+                                "values": {
+                                    "containerPadding": "0px 0px 32px",
+                                    "src": {
+                                        "url": "https://assets.unlayer.com/projects/139/1676496418898-credit_mac_2x.jpg",
+                                        "width": 1600,
+                                        "autoWidth": false,
+                                        "maxWidth": "75%"
+                                    },
+                                    "textAlign": "center",
+                                    "altText": "Trade in",
+                                    "action": {
+                                        "name": "web",
+                                        "values": {
+                                            "href": "",
+                                            "target": "_blank"
+                                        }
+                                    },
+                                    "_meta": {
+                                        "htmlID": "u_content_image_3",
+                                        "htmlClassNames": "u_content_image"
+                                    },
+                                    "selectable": true,
+                                    "draggable": true,
+                                    "duplicatable": true,
+                                    "deletable": true,
+                                    "hideable": true
+                                }
+                            }
+                        ],
+                        "values": {
+                            "backgroundColor": "#000000",
+                            "padding": "40px 24px 0px",
+                            "border": {},
+                            "borderRadius": "24px",
+                            "_meta": {
+                                "htmlID": "u_column_5",
+                                "htmlClassNames": "u_column"
+                            },
+                            "deletable": true,
+                            "locked": false
+                        }
+                    }
+                ],
+                "values": {
+                    "displayCondition": null,
+                    "columns": false,
+                    "_styleGuide": null,
+                    "backgroundColor": "#161617",
+                    "columnsBackgroundColor": "",
+                    "backgroundImage": {
+                        "url": "",
+                        "fullWidth": true,
+                        "repeat": "no-repeat",
+                        "size": "custom",
+                        "position": "center"
+                    },
+                    "padding": "0px 0px 20px",
+                    "anchor": "",
+                    "noStackMobile": false,
+                    "_meta": {
+                        "htmlID": "u_row_5",
+                        "htmlClassNames": "u_row"
+                    },
+                    "selectable": true,
+                    "draggable": true,
+                    "duplicatable": true,
+                    "deletable": true,
+                    "hideable": true,
+                    "locked": false,
+                    "cells": [
+                        1
+                    ]
+                }
+            },
+            {
+                "cells": [
+                    1
+                ],
+                "columns": [
+                    {
+                        "contents": [
+                            {
+                                "type": "text",
+                                "values": {
+                                    "containerPadding": "0px 0px 6px",
+                                    "fontSize": "12px",
+                                    "textAlign": "center",
+                                    "lineHeight": "140%",
+                                    "linkStyle": {
+                                        "inherit": true,
+                                        "linkColor": "#0000ee",
+                                        "linkHoverColor": "#0000ee",
+                                        "linkUnderline": true,
+                                        "linkHoverUnderline": true
+                                    },
+                                    "color": "#86868b",
+                                    "fontWeight": 600,
+                                    "text": "Apple Card",
+                                    "_meta": {
+                                        "htmlID": "u_content_text_11",
+                                        "htmlClassNames": "u_content_text"
+                                    },
+                                    "selectable": true,
+                                    "draggable": true,
+                                    "duplicatable": true,
+                                    "deletable": true,
+                                    "hideable": true
+                                }
+                            },
+                            {
+                                "type": "heading",
+                                "values": {
+                                    "containerPadding": "0px",
+                                    "headingType": "h3",
+                                    "fontSize": "24px",
+                                    "textAlign": "center",
+                                    "lineHeight": "1.17",
+                                    "linkStyle": {
+                                        "inherit": true,
+                                        "linkColor": "#0000ee",
+                                        "linkHoverColor": "#0000ee",
+                                        "linkUnderline": true,
+                                        "linkHoverUnderline": true
+                                    },
+                                    "color": "#f5f5f7",
+                                    "fontWeight": 600,
+                                    "text": "Pay monthly at 0% APR.",
+                                    "letterSpacing": "-0.2px",
+                                    "_meta": {
+                                        "htmlID": "u_content_heading_5",
+                                        "htmlClassNames": "u_content_heading"
+                                    },
+                                    "selectable": true,
+                                    "draggable": true,
+                                    "duplicatable": true,
+                                    "deletable": true,
+                                    "hideable": true
+                                }
+                            },
+                            {
+                                "type": "text",
+                                "values": {
+                                    "containerPadding": "10px 8px 0px",
+                                    "fontSize": "15px",
+                                    "textAlign": "center",
+                                    "lineHeight": "1.47",
+                                    "linkStyle": {
+                                        "inherit": true,
+                                        "linkColor": "#0000ee",
+                                        "linkHoverColor": "#0000ee",
+                                        "linkUnderline": true,
+                                        "linkHoverUnderline": true
+                                    },
+                                    "color": "#86868b",
+                                    "text": "Pay over time, interest-free, when you check out with Apple Card Monthly Installments.",
+                                    "_meta": {
+                                        "htmlID": "u_content_text_12",
+                                        "htmlClassNames": "u_content_text"
+                                    },
+                                    "selectable": true,
+                                    "draggable": true,
+                                    "duplicatable": true,
+                                    "deletable": true,
+                                    "hideable": true
+                                }
+                            },
+                            {
+                                "type": "text",
+                                "values": {
+                                    "containerPadding": "10px 0px 24px",
+                                    "fontSize": "15px",
+                                    "textAlign": "center",
+                                    "lineHeight": "140%",
+                                    "linkStyle": {
+                                        "inherit": true,
+                                        "linkColor": "#0000ee",
+                                        "linkHoverColor": "#0000ee",
+                                        "linkUnderline": true,
+                                        "linkHoverUnderline": true
+                                    },
+                                    "color": "#000000",
+                                    "text": "<a href=\"https://www.apple.com/apple-card/\" style=\"color: #2997ff; text-decoration: none;\">Learn more ›</a>",
+                                    "_meta": {
+                                        "htmlID": "u_content_text_13",
+                                        "htmlClassNames": "u_content_text"
+                                    },
+                                    "selectable": true,
+                                    "draggable": true,
+                                    "duplicatable": true,
+                                    "deletable": true,
+                                    "hideable": true
+                                }
+                            },
+                            {
+                                "type": "image",
+                                "values": {
+                                    "containerPadding": "0px 0px 32px",
+                                    "src": {
+                                        "url": "https://assets.unlayer.com/projects/139/1676497065877-apple_card_2x.jpg",
+                                        "width": 1600,
+                                        "autoWidth": true,
+                                        "maxWidth": "100%"
+                                    },
+                                    "textAlign": "center",
+                                    "altText": "Apple Card",
+                                    "action": {
+                                        "name": "web",
+                                        "values": {
+                                            "href": "",
+                                            "target": "_blank"
+                                        }
+                                    },
+                                    "_meta": {
+                                        "htmlID": "u_content_image_4",
+                                        "htmlClassNames": "u_content_image"
+                                    },
+                                    "selectable": true,
+                                    "draggable": true,
+                                    "duplicatable": true,
+                                    "deletable": true,
+                                    "hideable": true
+                                }
+                            }
+                        ],
+                        "values": {
+                            "backgroundColor": "#000000",
+                            "padding": "40px 24px 0px",
+                            "border": {},
+                            "borderRadius": "24px",
+                            "_meta": {
+                                "htmlID": "u_column_6",
+                                "htmlClassNames": "u_column"
+                            },
+                            "deletable": true,
+                            "locked": false
+                        }
+                    }
+                ],
+                "values": {
+                    "displayCondition": null,
+                    "columns": false,
+                    "_styleGuide": null,
+                    "backgroundColor": "#161617",
+                    "columnsBackgroundColor": "",
+                    "backgroundImage": {
+                        "url": "",
+                        "fullWidth": true,
+                        "repeat": "no-repeat",
+                        "size": "custom",
+                        "position": "center"
+                    },
+                    "padding": "0px 0px 20px",
+                    "anchor": "",
+                    "noStackMobile": false,
+                    "_meta": {
+                        "htmlID": "u_row_6",
+                        "htmlClassNames": "u_row"
+                    },
+                    "selectable": true,
+                    "draggable": true,
+                    "duplicatable": true,
+                    "deletable": true,
+                    "hideable": true,
+                    "locked": false,
+                    "cells": [
+                        1
+                    ]
+                }
+            },
+            {
+                "cells": [
+                    1
+                ],
+                "columns": [
+                    {
+                        "contents": [
+                            {
+                                "type": "text",
+                                "values": {
+                                    "containerPadding": "0px 0px 6px",
+                                    "fontSize": "12px",
+                                    "textAlign": "center",
+                                    "lineHeight": "140%",
+                                    "linkStyle": {
+                                        "inherit": true,
+                                        "linkColor": "#0000ee",
+                                        "linkHoverColor": "#0000ee",
+                                        "linkUnderline": true,
+                                        "linkHoverUnderline": true
+                                    },
+                                    "color": "#86868b",
+                                    "fontWeight": 600,
+                                    "text": "Education",
+                                    "_meta": {
+                                        "htmlID": "u_content_text_14",
+                                        "htmlClassNames": "u_content_text"
+                                    },
+                                    "selectable": true,
+                                    "draggable": true,
+                                    "duplicatable": true,
+                                    "deletable": true,
+                                    "hideable": true
+                                }
+                            },
+                            {
+                                "type": "heading",
+                                "values": {
+                                    "containerPadding": "0px",
+                                    "headingType": "h3",
+                                    "fontSize": "24px",
+                                    "textAlign": "center",
+                                    "lineHeight": "1.17",
+                                    "linkStyle": {
+                                        "inherit": true,
+                                        "linkColor": "#0000ee",
+                                        "linkHoverColor": "#0000ee",
+                                        "linkUnderline": true,
+                                        "linkHoverUnderline": true
+                                    },
+                                    "color": "#f5f5f7",
+                                    "fontWeight": 600,
+                                    "text": "Save with education pricing.",
+                                    "letterSpacing": "-0.2px",
+                                    "_meta": {
+                                        "htmlID": "u_content_heading_6",
+                                        "htmlClassNames": "u_content_heading"
+                                    },
+                                    "selectable": true,
+                                    "draggable": true,
+                                    "duplicatable": true,
+                                    "deletable": true,
+                                    "hideable": true
+                                }
+                            },
+                            {
+                                "type": "text",
+                                "values": {
+                                    "containerPadding": "10px 8px 0px",
+                                    "fontSize": "15px",
+                                    "textAlign": "center",
+                                    "lineHeight": "1.47",
+                                    "linkStyle": {
+                                        "inherit": true,
+                                        "linkColor": "#0000ee",
+                                        "linkHoverColor": "#0000ee",
+                                        "linkUnderline": true,
+                                        "linkHoverUnderline": true
+                                    },
+                                    "color": "#86868b",
+                                    "text": "Students and educators get special pricing on a new Mac.",
+                                    "_meta": {
+                                        "htmlID": "u_content_text_15",
+                                        "htmlClassNames": "u_content_text"
+                                    },
+                                    "selectable": true,
+                                    "draggable": true,
+                                    "duplicatable": true,
+                                    "deletable": true,
+                                    "hideable": true
+                                }
+                            },
+                            {
+                                "type": "text",
+                                "values": {
+                                    "containerPadding": "10px 0px 24px",
+                                    "fontSize": "15px",
+                                    "textAlign": "center",
+                                    "lineHeight": "140%",
+                                    "linkStyle": {
+                                        "inherit": true,
+                                        "linkColor": "#0000ee",
+                                        "linkHoverColor": "#0000ee",
+                                        "linkUnderline": true,
+                                        "linkHoverUnderline": true
+                                    },
+                                    "color": "#000000",
+                                    "text": "<a href=\"https://www.apple.com/us-edu/store\" style=\"color: #2997ff; text-decoration: none;\">Shop ›</a>",
+                                    "_meta": {
+                                        "htmlID": "u_content_text_16",
+                                        "htmlClassNames": "u_content_text"
+                                    },
+                                    "selectable": true,
+                                    "draggable": true,
+                                    "duplicatable": true,
+                                    "deletable": true,
+                                    "hideable": true
+                                }
+                            },
+                            {
+                                "type": "image",
+                                "values": {
+                                    "containerPadding": "0px 0px 32px",
+                                    "src": {
+                                        "url": "https://assets.unlayer.com/projects/139/1676497143860-edu_mac_2x.jpg",
+                                        "width": 1600,
+                                        "autoWidth": true,
+                                        "maxWidth": "100%"
+                                    },
+                                    "textAlign": "center",
+                                    "altText": "Education pricing",
+                                    "action": {
+                                        "name": "web",
+                                        "values": {
+                                            "href": "",
+                                            "target": "_blank"
+                                        }
+                                    },
+                                    "_meta": {
+                                        "htmlID": "u_content_image_5",
+                                        "htmlClassNames": "u_content_image"
+                                    },
+                                    "selectable": true,
+                                    "draggable": true,
+                                    "duplicatable": true,
+                                    "deletable": true,
+                                    "hideable": true
+                                }
+                            }
+                        ],
+                        "values": {
+                            "backgroundColor": "#000000",
+                            "padding": "40px 24px 0px",
+                            "border": {},
+                            "borderRadius": "24px",
+                            "_meta": {
+                                "htmlID": "u_column_7",
+                                "htmlClassNames": "u_column"
+                            },
+                            "deletable": true,
+                            "locked": false
+                        }
+                    }
+                ],
+                "values": {
+                    "displayCondition": null,
+                    "columns": false,
+                    "_styleGuide": null,
+                    "backgroundColor": "#161617",
+                    "columnsBackgroundColor": "",
+                    "backgroundImage": {
+                        "url": "",
+                        "fullWidth": true,
+                        "repeat": "no-repeat",
+                        "size": "custom",
+                        "position": "center"
+                    },
+                    "padding": "0px 0px 20px",
+                    "anchor": "",
+                    "noStackMobile": false,
+                    "_meta": {
+                        "htmlID": "u_row_7",
+                        "htmlClassNames": "u_row"
+                    },
+                    "selectable": true,
+                    "draggable": true,
+                    "duplicatable": true,
+                    "deletable": true,
+                    "hideable": true,
+                    "locked": false,
+                    "cells": [
+                        1
+                    ]
+                }
+            },
+            {
+                "cells": [
+                    1
+                ],
+                "columns": [
+                    {
+                        "contents": [
+                            {
+                                "type": "text",
+                                "values": {
+                                    "containerPadding": "0px 0px 6px",
+                                    "fontSize": "12px",
+                                    "textAlign": "center",
+                                    "lineHeight": "140%",
+                                    "linkStyle": {
+                                        "inherit": true,
+                                        "linkColor": "#0000ee",
+                                        "linkHoverColor": "#0000ee",
+                                        "linkUnderline": true,
+                                        "linkHoverUnderline": true
+                                    },
+                                    "color": "#86868b",
+                                    "fontWeight": 600,
+                                    "text": "Personal Setup",
+                                    "_meta": {
+                                        "htmlID": "u_content_text_17",
+                                        "htmlClassNames": "u_content_text"
+                                    },
+                                    "selectable": true,
+                                    "draggable": true,
+                                    "duplicatable": true,
+                                    "deletable": true,
+                                    "hideable": true
+                                }
+                            },
+                            {
+                                "type": "heading",
+                                "values": {
+                                    "containerPadding": "0px",
+                                    "headingType": "h3",
+                                    "fontSize": "24px",
+                                    "textAlign": "center",
+                                    "lineHeight": "1.17",
+                                    "linkStyle": {
+                                        "inherit": true,
+                                        "linkColor": "#0000ee",
+                                        "linkHoverColor": "#0000ee",
+                                        "linkUnderline": true,
+                                        "linkHoverUnderline": true
+                                    },
+                                    "color": "#f5f5f7",
+                                    "fontWeight": 600,
+                                    "text": "Shop one on one with a Specialist.",
+                                    "letterSpacing": "-0.2px",
+                                    "_meta": {
+                                        "htmlID": "u_content_heading_7",
+                                        "htmlClassNames": "u_content_heading"
+                                    },
+                                    "selectable": true,
+                                    "draggable": true,
+                                    "duplicatable": true,
+                                    "deletable": true,
+                                    "hideable": true
+                                }
+                            },
+                            {
+                                "type": "text",
+                                "values": {
+                                    "containerPadding": "10px 8px 0px",
+                                    "fontSize": "15px",
+                                    "textAlign": "center",
+                                    "lineHeight": "1.47",
+                                    "linkStyle": {
+                                        "inherit": true,
+                                        "linkColor": "#0000ee",
+                                        "linkHoverColor": "#0000ee",
+                                        "linkUnderline": true,
+                                        "linkHoverUnderline": true
+                                    },
+                                    "color": "#86868b",
+                                    "text": "Our Specialists can help you choose, configure, and buy the perfect Mac.",
+                                    "_meta": {
+                                        "htmlID": "u_content_text_18",
+                                        "htmlClassNames": "u_content_text"
+                                    },
+                                    "selectable": true,
+                                    "draggable": true,
+                                    "duplicatable": true,
+                                    "deletable": true,
+                                    "hideable": true
+                                }
+                            },
+                            {
+                                "type": "text",
+                                "values": {
+                                    "containerPadding": "10px 0px 24px",
+                                    "fontSize": "15px",
+                                    "textAlign": "center",
+                                    "lineHeight": "140%",
+                                    "linkStyle": {
+                                        "inherit": true,
+                                        "linkColor": "#0000ee",
+                                        "linkHoverColor": "#0000ee",
+                                        "linkUnderline": true,
+                                        "linkHoverUnderline": true
+                                    },
+                                    "color": "#000000",
+                                    "text": "<a href=\"https://www.apple.com/retail/\" style=\"color: #2997ff; text-decoration: none;\">Find a store ›</a>",
+                                    "_meta": {
+                                        "htmlID": "u_content_text_19",
+                                        "htmlClassNames": "u_content_text"
+                                    },
+                                    "selectable": true,
+                                    "draggable": true,
+                                    "duplicatable": true,
+                                    "deletable": true,
+                                    "hideable": true
+                                }
+                            },
+                            {
+                                "type": "image",
+                                "values": {
+                                    "containerPadding": "0px 0px 32px",
+                                    "src": {
+                                        "url": "https://assets.unlayer.com/projects/139/1676496501021-specialist_2x.jpg",
+                                        "width": 1600,
+                                        "autoWidth": false,
+                                        "maxWidth": "75%"
+                                    },
+                                    "textAlign": "center",
+                                    "altText": "Mac Specialist",
+                                    "action": {
+                                        "name": "web",
+                                        "values": {
+                                            "href": "",
+                                            "target": "_blank"
+                                        }
+                                    },
+                                    "_meta": {
+                                        "htmlID": "u_content_image_6",
+                                        "htmlClassNames": "u_content_image"
+                                    },
+                                    "selectable": true,
+                                    "draggable": true,
+                                    "duplicatable": true,
+                                    "deletable": true,
+                                    "hideable": true
+                                }
+                            }
+                        ],
+                        "values": {
+                            "backgroundColor": "#000000",
+                            "padding": "40px 24px 0px",
+                            "border": {},
+                            "borderRadius": "24px",
+                            "_meta": {
+                                "htmlID": "u_column_8",
+                                "htmlClassNames": "u_column"
+                            },
+                            "deletable": true,
+                            "locked": false
+                        }
+                    }
+                ],
+                "values": {
+                    "displayCondition": null,
+                    "columns": false,
+                    "_styleGuide": null,
+                    "backgroundColor": "#161617",
+                    "columnsBackgroundColor": "",
+                    "backgroundImage": {
+                        "url": "",
+                        "fullWidth": true,
+                        "repeat": "no-repeat",
+                        "size": "custom",
+                        "position": "center"
+                    },
+                    "padding": "0px 0px 64px",
+                    "anchor": "",
+                    "noStackMobile": false,
+                    "_meta": {
+                        "htmlID": "u_row_8",
+                        "htmlClassNames": "u_row"
+                    },
+                    "selectable": true,
+                    "draggable": true,
+                    "duplicatable": true,
+                    "deletable": true,
+                    "hideable": true,
+                    "locked": false,
+                    "cells": [
+                        1
+                    ]
+                }
+            },
+            {
+                "cells": [
+                    1
+                ],
+                "columns": [
+                    {
+                        "contents": [
+                            {
+                                "type": "menu",
+                                "values": {
+                                    "containerPadding": "10px",
+                                    "menu": {
+                                        "items": [
+                                            {
+                                                "key": "1",
+                                                "text": "Shop Online",
+                                                "link": {
+                                                    "name": "web",
+                                                    "values": {
+                                                        "href": "https://www.apple.com/",
+                                                        "target": "_blank"
+                                                    }
+                                                }
+                                            },
+                                            {
+                                                "key": "2",
+                                                "text": "Find a Store",
+                                                "link": {
+                                                    "name": "web",
+                                                    "values": {
+                                                        "href": "https://www.apple.com/retail/",
+                                                        "target": "_blank"
+                                                    }
+                                                }
+                                            },
+                                            {
+                                                "key": "3",
+                                                "text": "1-800-MY-APPLE",
+                                                "link": {
+                                                    "name": "web",
+                                                    "values": {
+                                                        "href": "tel:18006927753",
+                                                        "target": "_blank"
+                                                    }
+                                                }
+                                            },
+                                            {
+                                                "key": "4",
+                                                "text": "Get the Apple Store App",
+                                                "link": {
+                                                    "name": "web",
+                                                    "values": {
+                                                        "href": "https://www.apple.com/apple-store-app/",
+                                                        "target": "_blank"
+                                                    }
+                                                }
+                                            }
+                                        ]
+                                    },
+                                    "fontSize": "12px",
+                                    "textColor": "#424245",
+                                    "linkColor": "#d2d2d7",
+                                    "align": "center",
+                                    "layout": "horizontal",
+                                    "separator": "",
+                                    "padding": "4px 10px",
+                                    "_meta": {
+                                        "htmlID": "u_content_menu_1",
+                                        "htmlClassNames": "u_content_menu"
+                                    },
+                                    "selectable": true,
+                                    "draggable": true,
+                                    "duplicatable": true,
+                                    "deletable": true,
+                                    "hideable": true
+                                }
+                            },
+                            {
+                                "type": "divider",
+                                "values": {
+                                    "containerPadding": "16px 0px",
+                                    "width": "100%",
+                                    "border": {
+                                        "borderTopWidth": "1px",
+                                        "borderTopStyle": "solid",
+                                        "borderTopColor": "#424245"
+                                    },
+                                    "textAlign": "center",
+                                    "_meta": {
+                                        "htmlID": "u_content_divider_1",
+                                        "htmlClassNames": "u_content_divider"
+                                    },
+                                    "selectable": true,
+                                    "draggable": true,
+                                    "duplicatable": true,
+                                    "deletable": true,
+                                    "hideable": true
+                                }
+                            },
+                            {
+                                "type": "text",
+                                "values": {
+                                    "containerPadding": "0px",
+                                    "fontSize": "12px",
+                                    "textAlign": "left",
+                                    "lineHeight": "1.6",
+                                    "linkStyle": {
+                                        "inherit": true,
+                                        "linkColor": "#0000ee",
+                                        "linkHoverColor": "#0000ee",
+                                        "linkUnderline": true,
+                                        "linkHoverUnderline": true
+                                    },
+                                    "color": "#86868b",
+                                    "text": "If you reside in the U.S. territories, please call Goldman Sachs at 877-255-5923 with questions about Apple Card.<br />\nTM and © 2026 Apple Inc. One Apple Park Way, MS 96-DM, Cupertino, CA 95014.<br />\n<a href=\"https://www.apple.com/legal/\" style=\"color: #d2d2d7; text-decoration: none;\">All Rights Reserved</a> | <a href=\"https://www.apple.com/legal/privacy/\" style=\"color: #d2d2d7; text-decoration: none;\">Privacy Policy</a> | <a href=\"https://appleid.apple.com/\" style=\"color: #d2d2d7; text-decoration: none;\">My Apple Account</a>",
+                                    "_meta": {
+                                        "htmlID": "u_content_text_20",
+                                        "htmlClassNames": "u_content_text"
+                                    },
+                                    "selectable": true,
+                                    "draggable": true,
+                                    "duplicatable": true,
+                                    "deletable": true,
+                                    "hideable": true
+                                }
+                            }
+                        ],
+                        "values": {
+                            "backgroundColor": "",
+                            "padding": "0px",
+                            "border": {},
+                            "borderRadius": "0px",
+                            "_meta": {
+                                "htmlID": "u_column_9",
+                                "htmlClassNames": "u_column"
+                            },
+                            "deletable": true,
+                            "locked": false
+                        }
+                    }
+                ],
+                "values": {
+                    "displayCondition": null,
+                    "columns": false,
+                    "_styleGuide": null,
+                    "backgroundColor": "#161617",
+                    "columnsBackgroundColor": "",
+                    "backgroundImage": {
+                        "url": "",
+                        "fullWidth": true,
+                        "repeat": "no-repeat",
+                        "size": "custom",
+                        "position": "center"
+                    },
+                    "padding": "0px 20px 48px",
+                    "anchor": "",
+                    "noStackMobile": false,
+                    "_meta": {
+                        "htmlID": "u_row_9",
+                        "htmlClassNames": "u_row"
+                    },
+                    "selectable": true,
+                    "draggable": true,
+                    "duplicatable": true,
+                    "deletable": true,
+                    "hideable": true,
+                    "locked": false,
+                    "cells": [
+                        1
+                    ]
+                }
+            }
+        ],
+        "values": {
+            "_styleGuide": null,
+            "borderRadius": "10px",
+            "contentAlign": "center",
+            "contentVerticalAlign": "middle",
+            "contentWidth": "700px",
+            "fontFamily": {
+                "label": "SF Pro",
+                "value": "-apple-system, BlinkMacSystemFont, 'SF Pro Display', 'Helvetica Neue', Helvetica, Arial, sans-serif"
+            },
+            "textColor": "#000000",
+            "language": {},
+            "backgroundColor": "#000000",
+            "documentSize": "A4",
+            "documentOrientation": "portrait",
+            "documentMargin": "96px",
+            "preheaderText": "MacBook Pro. Mover. Maker. Boundary breaker.",
+            "linkStyle": {
+                "body": true,
+                "linkColor": "#0000ee",
+                "linkHoverColor": "#0000ee",
+                "linkUnderline": true,
+                "linkHoverUnderline": true
+            },
+            "backgroundImage": {
+                "url": "",
+                "fullWidth": true,
+                "repeat": "no-repeat",
+                "size": "custom",
+                "position": "center"
+            },
+            "accessibilityTitle": "",
+            "_meta": {
+                "htmlID": "u_body",
+                "htmlClassNames": "u_body"
+            }
+        }
+    },
+    "schemaVersion": 27
+}
